@@ -1,6 +1,5 @@
 import { LightningElement } from 'lwc';
 import apex_generateJSONRecords from '@salesforce/apex/BadBunchController.generateJSONRecords';
-
 const MIN_NUM_RECORDS = 25000;
 const MAX_NUM_RECORDS = 100000;
 
